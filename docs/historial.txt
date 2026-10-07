@@ -1,0 +1,211 @@
+    1  git config --global user.email "montoyathomas2008"
+    2  Git config --global user.email
+    3  git config --global user.email "montoyathomas2008@gmail.com"
+    4  Git config --global user.email
+    5  git config --global user.name "Thomas"
+    6  git config --global --list
+    7    git config --global color.ui true
+    8  git config --global core.autocrlf true
+    9  git config --global core.autocrlf
+   10  cd C:/
+   11  ls
+   12  cd monto
+   13  cd C:\Users\monto\Desktop\Carpeta
+   14  cd c:/users/monto/desktop
+   15  ls
+   16  Cd carpeta/
+   17  cd Carpeta/
+   18  git init
+   19  git status
+   20  git add muevelo.txt
+   21  git add perdio_este_culo.txt 
+   22  cd desktop
+   23  cd "Santiago Zapata"
+   24  cd Git
+   25  cd C:\Users\monto\Desktop\Santiago Zapata\Git\Artistas\ArianaGrande\EternalSunshine\EternalSunshineBrighterDays
+   26  cd ArianaGrande
+   27  cd Petal
+   28  cd ArianaGrande
+   29  git commit
+   30  cd "Santiago Zapata"
+   31  cd desktop
+   32  cd "Santiago Zapata"
+   33  cd git
+   34  cd Petal
+   35  git config --global core.editor "code --wait"
+   36  git commit
+   37  git log
+   38  git status
+   39  git add.
+   40  git log
+   41  git commit OhWell.txt
+   42  git rm -- cached OhWell.txt
+   43  git add Warm.txt
+   44  cd ..
+   45  cd Artistas/Arianagrande
+   46  git commit OhWell.txt 
+   47  git log
+   48  git add KissMe.txt 
+   49  git status
+   50  git rm -- cached Petal.txt 
+   51  cd e
+   52  cd EternalSunshine/EternalSunshineBrighterDays/
+   53  git status
+   54  git add TwilightZone.txt 
+   55  git commit
+   56  git log
+   57  git commit
+   58  git add .
+   59  git status
+   60  git log
+   61  git branch TwilightZone.txt
+   62  git commit
+   63  git log
+   64  git commit TwilightZone.txt 
+   65  git status
+   66  git log
+   67  git commit TwilightZone.txt informacion
+   68  git branch TwilightZone.txt
+   69  cd desktop
+   70  cd "Santiago Zapata"
+   71  cd git
+   72  git commit .
+   73  ls
+   74  git status
+   75  cd Artistas/ArianaGrande/
+   76  git commit KissMe.txt 
+   77  git status
+   78  clear
+   79  cd ..
+   80  cd ..
+   81  cd ..
+   82  mkdir ActividadFlujo
+   83  cd ActividadFlujo/
+   84  git init
+   85  touch index.html
+   86  echo "<h1>Bienvenido</h1>" > index.html 
+   87  touch styles.css
+   88  echo "/*Estilos Principales*/" > styles.css 
+   89  git add index.html 
+   90  git status
+   91  git commit -m "feat(core)" 
+   92  echo "<h1>Bienvenidos a mi Súper Proyecto</h1>" > index.html 
+   93  git diff
+   94  git commit -m "fix(core): Actualizar titulo principal"
+   95   git commit -a "fix(core): actualizar titulo principal."
+   96   git commit -a -m "fix(core): actualizar titulo principal."
+   97  git status
+   98  cd C:\Users\monto\Desktop\Santiago Zapata\ActividadFlujo
+   99  cd C:\Users\monto\Desktop\"Santiago Zapata"
+  100  cd 
+  101  cd destkp
+  102  çd
+  103  q
+  104  cd desktop
+  105  cd desktop
+  106  cd Santiago\ Zapata/
+  107  cd Git/
+  108  clear
+  109  cd ..
+  110  cd ActividadFlujo/
+  111  git branch
+  112  git branch -D 
+  113  git branch -D thomy-secreto 
+  114  git switch master 
+  115  git branch -D thomy-secreto 
+  116  git switch -c feature-contacto
+  117  echo "[200~6. Para crear una rama y cambiar de inmediato
+  118      git switch -c nombre-rama
+  119  7. Para eliminar una rama
+  120      git branch -d nombre-rama #Si se ha combinado
+  121      git branch -D nombre-rama #Este comando es si no se ha hecho un MERGE
+  122  8. Para cambiar el nombre de la rama
+  123      git branch -m nombre-nuevo_nombre
+  124  9. Para cambiar el nombre de la rama estando en otra rama
+  125      git branch -m nombre-rama nombre-nuevo
+  126  10. Para integrar cambios, primero nos posicionamos en la rama destino
+  127      git switch master
+  128  clear
+  129  cd Desktop/
+  130  cd Santiago\ Zapata/
+  131  cd Git/
+  132  cd Desktop/
+  133  cd Santiago\ Zapata/
+  134  cd git
+  135  git remote add origin https://github.com/ThomyVM08/SZRepositorio.git
+  136  git branch -M Main
+  137  git branch -M main
+  138  git push -u origin main
+  139  git push origin main --force
+  140  git remote remove origin
+  141  git remote -u origin main https://github.com/ThomyVM08/SZRepositorio.git
+  142  git remote add origin https://github.com/ThomyVM08/SZRepositorio.git
+  143  git remote remove origin
+  144  git remote add origin https://github.com/ThomyVM08/SZRepositorio.git
+  145  git push -u origin main
+  146  git push origin main --force
+  147  git remote -v
+  148  git push origin main --force
+  149  git config --global user.email
+  150  git push -f origin main
+  151  git log --oneline
+  152  cd ..
+  153  cd Git/
+  154  cd ..
+  155  cd ActividadFlujo/
+  156  git log --oneline
+  157  git branch -M main
+  158  git remote add https://github.com/ThomyVM08/SZRepositorio.git
+  159  git push -u origin main
+  160  git push origin main --force
+  161  git push -f origin min
+  162  git push -f origin main
+  163  clear
+  164  git remote remove origin
+  165  git remote add origin https://github.com/ThomyVM08/SZRepositorio.git
+  166  git push -u origin main
+  167  git push origin main --force
+  168  clear
+  169  cd ..7
+  170  clear
+  171  cd ..
+  172  mkdir juegos/
+  173  cd juegos/
+  174  touch fortnite.txt
+  175  touch minecraft.txt
+  176  touch roblox.txt
+  177  touch LoL.txt
+  178  touch gtavi.txt
+  179  git init
+  180  git status
+  181  git add .
+  182  git status
+  183  git commi --ammend
+  184  git commit --amend
+  185  git rm --cached roblox.txt 
+  186  git status
+  187  git rm --cachend LoL.txt 
+  188  git rm --cached LoL.txt 
+  189  git commit -m "Juegos Instalados"
+  190  git commit -m -a "Juegos Ignorados"
+  191  git add .gitignore 
+  192  git commit -m "juegos desinstalados"
+  193  git status
+  194  git log
+  195  git remote add origin https://github.com/ThomyVM08/Juegos.git
+  196  git branch -M main
+  197  git push -u origin main
+  198  git push origin main --force
+  199  mv historial.txt docs/
+  200  echo "Nombre:fsa
+  201  echo "Nombre: App-Thomy" 
+  202  echo "Nombre: App-Thomy" >> readme.md
+  203  echo "Uso de la app: La app sirve para la utilizacion de algo que necesites, nose mas que escribir asi q la app funciona" >> readme.md
+  204  echo "Thomas Valencia Montoya" >> readme.md
+  205  git add .
+  206  git commit -m "Informacion del gitignore e informacion del readme"
+  207  echo "La idea es que la app funcione, asi que ya funciona y el punto es ese, esto es solo una actividad" >> docs/idea.md
+  208  echo "#Aqui empieza mi app" >> src/app.py
+  209  ls -R > docs/estructura.txt
+  210  history docs/historial.txt
+  211  history > docs/historial.txt
