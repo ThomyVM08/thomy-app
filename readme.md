@@ -1,4 +1,7 @@
-Nombre: App-Thomy
-Uso de la app: La app sirve para la utilizacion de algo que necesites, 
-nose mas que escribir asi q la app funciona
-Thomas Valencia Montoya
+Funciones que tendrá mi app
+
+Agregar nuevas tareas pendientes.
+
+Consultar la lista de tareas registradas.
+
+Marcar tareas como completadas.
