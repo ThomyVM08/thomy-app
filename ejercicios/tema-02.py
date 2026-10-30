@@ -11,8 +11,8 @@
 #   4. Súbelo a GitHub con el commit:
 #        feat: ejercicios del tema 02
 #
-# Nombre completo:
-# Mi app se llama:
+# Nombre completo: Thomas Valencia Montoya
+# Mi app se llama: Gestor de tareas
 # =============================================================
 
 
